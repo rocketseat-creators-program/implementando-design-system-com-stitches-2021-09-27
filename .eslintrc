@@ -36,7 +36,6 @@
         "jsx": "never"
       }
     ],
-    "quotes": "off",
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
